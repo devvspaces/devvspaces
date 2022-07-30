@@ -7,7 +7,7 @@
 - 💬 Ask me about Python, Django, DevOps, AWS, DSA, Javascript, PHP
 - 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
 - 😄 Pronouns: He
-- ⚡ Fun fact: I love coding
+- ⚡ Fun fact: I love playing games, I can't dance but i love dancing
 - ⚡ Looking forward to collaborate with other developers
 
 <br>
