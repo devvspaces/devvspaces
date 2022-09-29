@@ -101,7 +101,7 @@ func updateReadme(filename string) error {
 	hello := "### Hello! I’m Ayanwola Ayomide 👋.\n\nI love to build open source projects, and learn, and teach in public through the " + fmt.Sprint(wordCount) + " words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/)."
 	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev)."
 	updated := "<sub>Last updated by Luffy Senpai on " + date + ".</sub>"
-	data := fmt.Sprintf("%s\n\n%s\n\n%s\n\n%s\n", hello, blog, current, updated)
+	data := fmt.Sprintf("%s\n\n%s\n\n\n\n%s\n\n%s\n", hello, blog, current, updated)
 
 	// Prepare file with a light coating of os
 	file, err := os.Create(filename)
