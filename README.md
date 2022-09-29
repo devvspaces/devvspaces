@@ -5,6 +5,8 @@ I love to build open source projects, and learn, and teach in public through the
 You might like my latest blog post: **[Learn Python Decorators from Basic to Pro in 10 mins](https://thecodeway.hashnode.dev/learn-python-decorators-from-basic-to-pro-in-10-mins)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).
 
 
+
+
 - 🔭 I’m currently working on [Server Eyes Project](https://github.com/devvspaces/server_eyes)
 - 🌱 I’m currently learning AWS, Golang, and Data structures & Algorithms
 - 👯 I’m looking to collaborate on [Bulk Emailer](https://github.com/devvspaces/bulk_emailer)
