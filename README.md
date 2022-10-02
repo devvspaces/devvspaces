@@ -1,6 +1,6 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love to build open source projects, and learn, and teach in public through the 7247 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Learn Python Decorators from Basic to Pro in 10 mins](https://thecodeway.hashnode.dev/learn-python-decorators-from-basic-to-pro-in-10-mins)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love to build open source projects, and learn, and teach in public through the 8768 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Building a Lightweight Web Server with Golang](https://thecodeway.hashnode.dev/building-a-lightweight-web-server-with-golang)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently working on [Server Eyes Project](https://github.com/devvspaces/server_eyes)
 - 🌱 I’m currently learning AWS, Golang, and Data structures & Algorithms
 - 👯 I’m looking to collaborate on [Bulk Emailer](https://github.com/devvspaces/bulk_emailer)
@@ -31,4 +31,4 @@ I love to build open source projects, and learn, and teach in public through the
 <p align="center">
 <img align="center" src="https://komarev.com/ghpvc/?username=devvspaces&style=for-the-badge&label=Profile%20views&color=313b4a"></img>
 </p>
-	<br><sub>Last updated by Luffy Senpai on 1 Oct 2022.</sub><br>
+	<br><sub>Last updated by Luffy Senpai on 2 Oct 2022.</sub><br>
