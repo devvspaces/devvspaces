@@ -22,8 +22,8 @@ jobs:
           go run main.go
       - name: 🚀 Deploy
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@.github.com"
+          git config user.name "devvspaces"
+          git config user.email "devvspaces@github.com"
           git add .
-          git commit -am "Update dynamic content"
-          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          git commit -am "Update readme content"
+          git push --all -f https://${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
