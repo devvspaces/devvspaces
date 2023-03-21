@@ -49,9 +49,9 @@ func parse(text string) (data []string) {
 func updateReadme(filename string) error {
 
 	current := `
-- 🔭 I’m currently working on [Server Eyes Project](https://github.com/devvspaces/server_eyes)
-- 🌱 I’m currently learning how to Build Microservices Effeciently
-- 💬 Ask me about Python, Django, DevOps, AWS, Golang, Docker
+- 🔭 I’m currently volunteering as a Backend Tutor at Google Student Developers Club
+- 🌱 I’m currently learning how to Golang, Blockchain, DevOps and Microservices.
+- 💬 Ask me about Python, Django, AWS, Golang, Docker
 - 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
 - ⚡ Fun fact: I love playing games and technical writing.
 - ⚡ Looking forward to collaborate on Open source projects.
