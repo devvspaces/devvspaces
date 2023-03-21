@@ -1,9 +1,9 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
 I love building open source projects, and learning, and teaching in public through the 18485 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Mastering File Upload and Validation in NestJS with Multer](https://thecodeway.hashnode.dev/mastering-file-upload-and-validation-in-nestjs-with-multer)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
-- 🔭 I’m currently working on [Server Eyes Project](https://github.com/devvspaces/server_eyes)
-- 🌱 I’m currently learning how to Build Microservices Effeciently
-- 💬 Ask me about Python, Django, DevOps, AWS, Golang, Docker
+- 🔭 I’m currently volunteering as a Backend Tutor at FUTA GDSC
+- 🌱 I’m currently learning how to Golang, Blockchain, DevOps and Microservices.
+- 💬 Ask me about Python, Django, AWS, Golang, Docker
 - 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
 - ⚡ Fun fact: I love playing games and technical writing.
 - ⚡ Looking forward to collaborate on Open source projects.
