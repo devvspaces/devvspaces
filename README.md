@@ -1,6 +1,6 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love building open source projects, and learning, and teaching in public through the 23275 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Streamline Your File Uploads with Cloudinary and NestJS](https://thecodeway.hashnode.dev/streamline-your-file-uploads-with-cloudinary-and-nestjs)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love building open source projects, and learning, and teaching in public through the 25809 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[How to Build a Speech Authentication System with Django and Next JS - Part 1](https://thecodeway.hashnode.dev/how-to-build-a-speech-authentication-system-with-django-and-next-js-part-1)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently volunteering as a Backend Tutor at Google Student Developers Club
 - 🌱 I’m currently learning how to Golang, Blockchain, DevOps and Microservices.
 - 💬 Ask me about Python, Django, AWS, Golang, Docker
@@ -19,4 +19,4 @@ I love building open source projects, and learning, and teaching in public throu
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvspaces&theme=dracula&hide_border=true"></a>
 
 <br>
-	<br><sub>Last updated by Luffy Senpai on 7 Apr 2023.</sub><br>
+	<br><sub>Last updated by Luffy Senpai on 8 Apr 2023.</sub><br>
