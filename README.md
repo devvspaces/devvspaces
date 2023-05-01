@@ -1,6 +1,6 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love building open source projects, and learning, and teaching in public through the 27066 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Create and Manage Cryptographically Strong Tokens with Python for Better Web Application Security](https://thecodeway.hashnode.dev/create-and-manage-cryptographically-strong-tokens-with-python-for-better-web-application-security)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love building open source projects, and learning, and teaching in public through the 27891 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Building a Tech Course Curriculums Platform with MindsDB Models and Django](https://thecodeway.hashnode.dev/building-a-tech-course-curriculums-platform-with-mindsdb-models-and-django)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently volunteering as a Backend Tutor at Google Student Developers Club
 - 🌱 I’m currently learning how to Golang, Blockchain, DevOps and Microservices.
 - 💬 Ask me about Python, Django, AWS, Golang, Docker
@@ -19,4 +19,4 @@ I love building open source projects, and learning, and teaching in public throu
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvspaces&theme=dracula&hide_border=true"></a>
 
 <br>
-	<br><sub>Last updated by Luffy Senpai on 30 Apr 2023.</sub><br>
+	<br><sub>Last updated by Luffy Senpai on 1 May 2023.</sub><br>
