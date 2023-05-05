@@ -66,6 +66,12 @@ func updateReadme(filename string) error {
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="145em" src="https://github-readme-stats-bpires.vercel.app/api?username=devvspaces&hide_title=true&line_height=25&hide_rank=false&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true"></a>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=devvspaces&theme=dracula&hide_border=true"></a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devvspaces&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devvspaces&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devvspaces&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devvspaces&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devvspaces&theme=github)
+
 <br>
 	`
 
