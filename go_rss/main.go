@@ -49,12 +49,12 @@ func parse(text string) (data []string) {
 func updateReadme(filename string) error {
 
 	current := `
-- 🔭 I’m currently volunteering as a Backend Tutor at Google Student Developers Club
-- 🌱 I’m currently learning how to Golang, Blockchain, DevOps and Microservices.
-- 💬 Ask me about Python, Django, AWS, Golang, Docker
+- 🔭 I’m currently volunteering as a Backend Tutor at GDSC.
+- 🌱 I’m currently learning how to Golang, Blockchain, and DevOps.
+- 💬 Ask me about Backend, Frontend, and DevOps.
 - 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
-- ⚡ Fun fact: I love playing games and technical writing.
-- ⚡ Looking forward to collaborate on Open source projects.
+- ⚡ Fun fact: I love playing games, writing codes, and technical articles.
+- ⚡ Looking forward to collaborating on Open source projects.
 
 <br>
 <br>
@@ -92,7 +92,7 @@ func updateReadme(filename string) error {
 	date := time.Now().Format("2 Jan 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
-	hello := "### Hello! I’m Ayanwola Ayomide 👋.\n\nI love building open source projects, and learning, and teaching in public through the " + fmt.Sprint(wordCount) + " words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/)."
+	hello := "### Hello! I’m Ayanwola Ayomide 👋.\n\nI love building open source projects, learning, and teaching in public through the " + fmt.Sprint(wordCount) + " words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/)."
 	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev)."
 	updated := "<sub>Last updated by Luffy Senpai on " + date + ".</sub>"
 	data := fmt.Sprintf("%s<br>%s<br><br>%s<br>%s<br>", hello, blog, current, updated)
