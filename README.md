@@ -1,12 +1,12 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love building open source projects, and learning, and teaching in public through the 31671 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Dynamically Managing Dependencies In Your Python Projects](https://thecodeway.hashnode.dev/dynamically-managing-dependencies-in-your-python-projects)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love building open source projects, learning, and teaching in public through the 31671 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Dynamically Managing Dependencies In Your Python Projects](https://thecodeway.hashnode.dev/dynamically-managing-dependencies-in-your-python-projects)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently volunteering as a Backend Tutor at Google Student Developers Club
-- 🌱 I’m currently learning how to Golang, Blockchain, DevOps and Microservices.
-- 💬 Ask me about Python, Django, AWS, Golang, Docker
+- 🌱 I’m currently learning Golang, Blockchain, and DevOps.
+- 💬 Ask me about Backend, Frontend, and DevOps.
 - 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
-- ⚡ Fun fact: I love playing games and technical writing.
-- ⚡ Looking forward to collaborate on Open source projects.
+- ⚡ Fun fact: I love playing games, coding, and technical writing.
+- ⚡ Looking forward to collaborating on Open source projects.
 
 <br>
 <br>
