@@ -1,6 +1,6 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love building open source projects, learning, and teaching in public through the 31671 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Dynamically Managing Dependencies In Your Python Projects](https://thecodeway.hashnode.dev/dynamically-managing-dependencies-in-your-python-projects)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love building open source projects, learning, and teaching in public through the 33198 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Mastering Django CI/CD using GitHub Actions](https://thecodeway.hashnode.dev/mastering-django-cicd-using-github-actions)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently volunteering as a Backend Tutor at GDSC.
 - 🌱 I’m currently learning how to Golang, Blockchain, and DevOps.
 - 💬 Ask me about Backend, Frontend, and DevOps.
@@ -25,4 +25,4 @@ I love building open source projects, learning, and teaching in public through t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devvspaces&theme=github)
 
 <br>
-	<br><sub>Last updated by Luffy Senpai on 5 Jul 2023.</sub><br>
+	<br><sub>Last updated by Luffy Senpai on 6 Jul 2023.</sub><br>
