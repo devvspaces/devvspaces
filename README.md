@@ -1,12 +1,12 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
 I love building open source projects, learning, and teaching in public through the 490 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Demystifying Internet Infrastructure: A Comprehensive Guide for Software Engineers](https://blog.bloombyte.dev/demystifying-internet-infrastructure-a-comprehensive-guide-for-software-engineers)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
-- 🔭 I’m currently volunteering as a Backend Tutor at GDSC.
-- 🌱 I’m currently learning how to Golang, Blockchain, and DevOps.
-- 💬 Ask me about Backend, Frontend, and DevOps.
-- 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
-- ⚡ Fun fact: I love playing games, writing codes, and technical articles.
-- ⚡ Looking forward to collaborating on Open source projects.
+- 🔭 I’m currently working as a Senior Software Engineer at GetG3ms.
+- 🌱 I’m building various tools using Golang, Rust, Python and Typescript.
+- 💬 Ask me about Backend, Frontend, Cloud and DevOps.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
+- ⚡ Fun fact: I play Call of Duty (LVL: 350), building cool tools, learning new things, and writing technical contents.
+- ⚡ Looking forward to making some PRs on Open source projects.
 
 <br>
 <br>
