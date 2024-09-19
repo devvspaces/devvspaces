@@ -1,6 +1,6 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love building open source projects, learning, and teaching in public through the 490 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Demystifying Internet Infrastructure: A Comprehensive Guide for Software Engineers](https://blog.bloombyte.dev/demystifying-internet-infrastructure-a-comprehensive-guide-for-software-engineers)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love building open source projects, learning, and teaching in public through the 529 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Neo N3: Democratizing Blockchain Governance for Everyone](https://blog.bloombyte.dev/neo-n3-democratizing-blockchain-governance-for-everyone)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently working as a Senior Software Engineer at GetG3ms.
 - 🌱 I’m building various tools using Golang, Rust, Python and Typescript.
 - 💬 Ask me about Backend, Frontend, Cloud and DevOps.
@@ -25,4 +25,4 @@ I love building open source projects, learning, and teaching in public through t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devvspaces&theme=github)
 
 <br>
-	<br><sub>Last updated by Luffy Senpai on 18 Sep 2024.</sub><br>
+	<br><sub>Last updated by Luffy Senpai on 19 Sep 2024.</sub><br>
