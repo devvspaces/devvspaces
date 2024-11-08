@@ -1,6 +1,6 @@
 ### Hello! I’m Ayanwola Ayomide 👋.
 
-I love building open source projects, learning, and teaching in public through the 570 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[What Exactly Is Neo's Built-In Oracle Service](https://blog.bloombyte.dev/what-exactly-is-neos-built-in-oracle-service)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
+I love building open source projects, learning, and teaching in public through the 581 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Unlocking the Web using HTTPS Outcalls on ICP](https://blog.bloombyte.dev/unlocking-the-web-using-https-outcalls-on-icp)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
 - 🔭 I’m currently working as a Senior Software Engineer at GetG3ms.
 - 🌱 I’m building various tools using Golang, Rust, Python and Typescript.
 - 💬 Ask me about Backend, Frontend, Cloud and DevOps.
@@ -25,4 +25,4 @@ I love building open source projects, learning, and teaching in public through t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devvspaces&theme=github)
 
 <br>
-	<br><sub>Last updated by Luffy Senpai on 7 Nov 2024.</sub><br>
+	<br><sub>Last updated by Luffy Senpai on 8 Nov 2024.</sub><br>
