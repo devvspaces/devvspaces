@@ -76,7 +76,7 @@ func updateReadme(filename string) error {
 	`
 
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL("https://thecodeway.hashnode.dev/rss.xml")
+	feed, err := fp.ParseURL("https://blog.bloombyte.dev/rss.xml")
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 	}
@@ -84,7 +84,7 @@ func updateReadme(filename string) error {
 	var wordCount int
 
 	for _, item := range feed.Items {
-		wordCount += len(parse(item.Description))
+		wordCount += len(parse(item.Content))
 	}
 
 	blogItem := feed.Items[0]
@@ -92,10 +92,14 @@ func updateReadme(filename string) error {
 	date := time.Now().Format("2 Jan 2006")
 
 	// Whisk together static and dynamic content until stiff peaks form
-	hello := "### Hello! I’m Ayanwola Ayomide 👋.\n\nI love building open source projects, learning, and teaching in public through the " + fmt.Sprint(wordCount) + " words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/)."
-	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev)."
-	updated := "<sub>Last updated by Luffy Senpai on " + date + ".</sub>"
-	data := fmt.Sprintf("%s<br>%s<br><br>%s<br>%s<br>", hello, blog, current, updated)
+	hello := "### Hi! I’m Ayomide 👋 I'm a Senior Software Engineer!"
+	info1 := "I've had the incredible opportunity to build amazing things. I've helped companies boost performance - we're talking 40% faster database queries, 30% reduced assessment processing times, and creating systems with 99.999% uptime."
+	info2 := "But tech isn't just my job - it's my passion. When I'm not coding, you'll find me exploring blockchain technologies, contributing to open-source projects, or diving into video games. I've even developed my own projects like a blockchain explorer and an educational NFT minting platform."
+	info3 := "I'm a big fan of writing, creating videos, and teaching. Whether it's mentoring junior developers or exploring new tech frontiers, I'm all about growth and innovation."
+	info4 := "I enjoy teaching in public through the " + fmt.Sprint(wordCount) + " words I’ve written on [blog.bloombyte.dev](https://blog.bloombyte.dev/)."
+	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://blog.bloombyte.dev/rss.xml) or follow me at [**blog.bloombyte.dev**](https://blog.bloombyte.dev)."
+	updated := "<sub>Last updated by sentinel on " + date + ".</sub>"
+	data := strings.Join([]string{hello, info1, info2, info3, info4, blog, current, updated}, "\n\n")
 
 	// Prepare file with a light coating of os
 	file, err := os.Create(filename)

@@ -1,12 +1,22 @@
-### Hello! I’m Ayanwola Ayomide 👋.
+### Hi! I’m Ayomide 👋 I'm a Senior Software Engineer!
 
-I love building open source projects, learning, and teaching in public through the 490 words I’ve written on [thecodeway.hashnode.dev](https://thecodeway.hashnode.dev/).<br>You might like my latest blog post: **[Demystifying Internet Infrastructure: A Comprehensive Guide for Software Engineers](https://blog.bloombyte.dev/demystifying-internet-infrastructure-a-comprehensive-guide-for-software-engineers)**. You can subscribe to my [**blog RSS**](https://thecodeway.hashnode.dev/rss.xml) or follow me at [**thecodeway.hashnode.dev**](https://thecodeway.hashnode.dev).<br><br>
-- 🔭 I’m currently volunteering as a Backend Tutor at GDSC.
-- 🌱 I’m currently learning how to Golang, Blockchain, and DevOps.
-- 💬 Ask me about Backend, Frontend, and DevOps.
-- 📫 How to reach me: [Github](https://github.com/devvspaces), [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
-- ⚡ Fun fact: I love playing games, writing codes, and technical articles.
-- ⚡ Looking forward to collaborating on Open source projects.
+I've had the incredible opportunity to build amazing things. I've helped companies boost performance - we're talking 40% faster database queries, 30% reduced assessment processing times, and creating systems with 99.999% uptime.
+
+But tech isn't just my job - it's my passion. When I'm not coding, you'll find me exploring blockchain technologies, contributing to open-source projects, or diving into video games. I've even developed my own projects like a blockchain explorer and an educational NFT minting platform.
+
+I'm a big fan of writing, creating videos, and teaching. Whether it's mentoring junior developers or exploring new tech frontiers, I'm all about growth and innovation.
+
+I enjoy teaching in public through the 40672 words I’ve written on [blog.bloombyte.dev](https://blog.bloombyte.dev/).
+
+You might like my latest blog post: **[Unlocking the Web using HTTPS Outcalls on ICP](https://blog.bloombyte.dev/unlocking-the-web-using-https-outcalls-on-icp)**. You can subscribe to my [**blog RSS**](https://blog.bloombyte.dev/rss.xml) or follow me at [**blog.bloombyte.dev**](https://blog.bloombyte.dev).
+
+
+- 🔭 I’m currently working as a Senior Software Engineer at GetG3ms.
+- 🌱 I’m building various tools using Golang, Rust, Python and Typescript.
+- 💬 Ask me about Backend, Frontend, Cloud and DevOps.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
+- ⚡ Fun fact: I play Call of Duty (LVL: 350), building cool tools, learning new things, and writing technical contents.
+- ⚡ Looking forward to making some PRs on Open source projects.
 
 <br>
 <br>
@@ -25,4 +35,6 @@ I love building open source projects, learning, and teaching in public through t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devvspaces&theme=github)
 
 <br>
-	<br><sub>Last updated by Luffy Senpai on 27 Jun 2024.</sub><br>
+	
+
+<sub>Last updated by sentinel on 26 Nov 2024.</sub>
