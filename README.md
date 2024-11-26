@@ -6,7 +6,7 @@ But tech isn't just my job - it's my passion. When I'm not coding, you'll find m
 
 I'm a big fan of writing, creating videos, and teaching. Whether it's mentoring junior developers or exploring new tech frontiers, I'm all about growth and innovation.
 
-I enjoy teaching in public through the 40672 words I’ve written on [blog.bloombyte.dev](https://blog.bloombyte.dev/).
+I enjoy teaching in public through the 40,672 words I’ve written on [blog.bloombyte.dev](https://blog.bloombyte.dev/).
 
 You might like my latest blog post: **[Unlocking the Web using HTTPS Outcalls on ICP](https://blog.bloombyte.dev/unlocking-the-web-using-https-outcalls-on-icp)**. You can subscribe to my [**blog RSS**](https://blog.bloombyte.dev/rss.xml) or follow me at [**blog.bloombyte.dev**](https://blog.bloombyte.dev).
 

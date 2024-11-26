@@ -1,7 +1,6 @@
 package main
 
 import (
-	"fmt"
 	"log"
 	"os"
 	"strings"
@@ -9,7 +8,14 @@ import (
 
 	"github.com/mmcdole/gofeed"
 	"golang.org/x/net/html"
+	"golang.org/x/text/language"
+	"golang.org/x/text/message"
 )
+
+func formatWithCommas(num int) string {
+	p := message.NewPrinter(language.English)
+	return p.Sprintf("%d", num)
+}
 
 func parse(text string) (data []string) {
 
@@ -96,7 +102,7 @@ func updateReadme(filename string) error {
 	info1 := "I've had the incredible opportunity to build amazing things. I've helped companies boost performance - we're talking 40% faster database queries, 30% reduced assessment processing times, and creating systems with 99.999% uptime."
 	info2 := "But tech isn't just my job - it's my passion. When I'm not coding, you'll find me exploring blockchain technologies, contributing to open-source projects, or diving into video games. I've even developed my own projects like a blockchain explorer and an educational NFT minting platform."
 	info3 := "I'm a big fan of writing, creating videos, and teaching. Whether it's mentoring junior developers or exploring new tech frontiers, I'm all about growth and innovation."
-	info4 := "I enjoy teaching in public through the " + fmt.Sprint(wordCount) + " words I’ve written on [blog.bloombyte.dev](https://blog.bloombyte.dev/)."
+	info4 := "I enjoy teaching in public through the " + formatWithCommas(wordCount) + " words I’ve written on [blog.bloombyte.dev](https://blog.bloombyte.dev/)."
 	blog := "You might like my latest blog post: **[" + blogItem.Title + "](" + blogItem.Link + ")**. You can subscribe to my [**blog RSS**](https://blog.bloombyte.dev/rss.xml) or follow me at [**blog.bloombyte.dev**](https://blog.bloombyte.dev)."
 	updated := "<sub>Last updated by sentinel on " + date + ".</sub>"
 	data := strings.Join([]string{hello, info1, info2, info3, info4, blog, current, updated}, "\n\n")
