@@ -37,4 +37,4 @@ You might like my latest blog post: **[Unlocking the Web using HTTPS Outcalls on
 <br>
 	
 
-<sub>Last updated by sentinel on 30 Nov 2024.</sub>
+<sub>Last updated by sentinel on 1 Dec 2024.</sub>
