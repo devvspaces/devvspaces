@@ -55,12 +55,12 @@ func parse(text string) (data []string) {
 func updateReadme(filename string) error {
 
 	current := `
-- 🔭 I’m currently working as a Senior Software Engineer at GetG3ms.
-- 🌱 I’m building various tools using Golang, Rust, Python and Typescript.
-- 💬 Ask me about Backend, Frontend, Cloud and DevOps.
+- 🔭 I’m currently working as a Senior Backend Engineer at Myxellia.
+- 🌱 I build software applications using Golang, Rust, Python, and Typescript.
+- 💬 Ask me about Backend, Frontend, Cloud, DevOps, and Blockchain (ICP, Solana, SUI, Starknet, Ethereum).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
-- ⚡ Fun fact: I play Call of Duty (LVL: 350), building cool tools, learning new things, and writing technical contents.
-- ⚡ Looking forward to making some PRs on Open source projects.
+- ⚡ Fun fact: I play Call of Duty (LVL: 350), Clash Royale, SimCity, and a little chess.
+- ⚡ Looking forward to working on open-source projects.
 
 <br>
 <br>
