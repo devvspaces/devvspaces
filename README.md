@@ -1,4 +1,4 @@
-### Hi! I’m Ayomide 👋 I'm a Senior Software Engineer!
+### Hi! 👋 I'm a Senior Software Engineer!
 
 I've had the incredible opportunity to build amazing things. I've helped companies boost performance - we're talking 40% faster database queries, 30% reduced assessment processing times, and creating systems with 99.999% uptime.
 
@@ -14,7 +14,6 @@ You might like my latest blog post: **[Unlocking the Web using HTTPS Outcalls on
 - 🔭 I’m currently working as a Senior Software Engineer at GetG3ms.
 - 🌱 I’m building various tools using Golang, Rust, Python and Typescript.
 - 💬 Ask me about Backend, Frontend, Cloud and DevOps.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayomide-ayanwola/), [Twitter](https://twitter.com/netrobeweb)
 - ⚡ Fun fact: I play Call of Duty (LVL: 350), building cool tools, learning new things, and writing technical contents.
 - ⚡ Looking forward to making some PRs on Open source projects.
 
